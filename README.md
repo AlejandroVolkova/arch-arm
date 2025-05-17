@@ -42,7 +42,7 @@
   ![Install git and sudo](https://i.gyazo.com/0e5efd00c54c066df26275cee93e63fb.gif)
 - Grant the user `sudo` privileges
   ```sh
-  nvim /etc/sudoers
+  nano /etc/sudoers
   ```
   ![Grant the user](https://i.gyazo.com/13d82ba0055e39849a4c8fa6a2741dc1.gif)
 - Clone this repository and run the `install.sh` script
