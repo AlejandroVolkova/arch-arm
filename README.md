@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to arch-linux-on-m2 👋</h1>
+<h1 align="center">Arch Linux on Apple Silicon</h1>
 <p>
   How to install Arch Linux on a Macbook Pro M2
 </p>
