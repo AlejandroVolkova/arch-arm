@@ -4,10 +4,6 @@
 echo "Updating the system..."
 sudo pacman -Syu --noconfirm
 
-# Install kitty
-echo "Installing kitty..."
-sudo pacman -Sy kitty --noconfirm
-
 # Install GNOME desktop environment
 echo "Installing GNOME desktop environment..."
 sudo pacman -Sy xorg xorg-xinit --noconfirm
