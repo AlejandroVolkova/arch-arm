@@ -47,8 +47,8 @@
   ![Grant the user](https://i.gyazo.com/13d82ba0055e39849a4c8fa6a2741dc1.gif)
 - Clone this repository and run the `install.sh` script
   ```sh
-  git clone https://github.com/jellydn/arch-linux-on-m2.git
-  cd arch-linux-on-m2
+  git clone https://github.com/AlejandroVolkova/arch-arm.git
+  cd arch-arm
   sh install.sh
   ```
   ![Install](https://i.gyazo.com/5ed1527bf07899ae6fe27b17f5c3c9d3.gif)
@@ -75,7 +75,7 @@
   ![Image from Gyazo](https://i.gyazo.com/73f69ac3da68a54e9fc594f3440af631.gif)
 - Run the `openvm-tools.sh` script to install VMware Tools
   ```sh
-  cd arch-linux-on-m2
+  cd arch-arm
   sh openvm-tools.sh
   ```
   ![Install OpenVM Tools](https://i.gyazo.com/d6f184300cae564038ddb1f4043f2a14.gif)
@@ -90,7 +90,7 @@
 This is optional but you can run the `extra.sh` script to install some extra packages:
 
 ```sh
-cd arch-linux-on-m2
+cd arch-arm
 sh extra.sh
 ```
 
