@@ -1,6 +1,6 @@
 <h1 align="center">Arch Linux on Apple Silicon</h1>
 <p>
-  How to install Arch Linux on a Macbook Pro M2
+  How to install Arch Linux on WMware Fusion Pro | Apple Silicon
 </p>
 
 [![How to Install Arch Linux on MacBook Pro M2](https://i.ytimg.com/vi/Nz-gKG6Bzlw/hqdefault.jpg)](https://www.youtube.com/watch?v=Nz-gKG6Bzlw)
